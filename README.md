@@ -29,8 +29,6 @@ The Musa shop! Powered by [Shopify](https://www.shopify.com), and deployed to th
 
 Sign in to [dash.deno.com](https://dash.deno.com), create a new project, and then link to your clone version of the repository. Please ensure add shopify secret before link:
 
-![Screen Shot 2](./static/screen_shot_2.png)
-
 ## Perfect Lighthouse score
 
 Today’s consumers are more demanding than ever, especially when it comes to

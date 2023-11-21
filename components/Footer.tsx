@@ -35,7 +35,7 @@ export function Footer() {
           </path>
         </svg>
         <span class="text-gray-600">
-          Shopify
+        ИП Агмалова Айгуль Фидаилевна ОГРНИП 322169000016511 ИНН 160802407183 Телефон +79053772323
         </span>
       </a>
     </footer>

@@ -52,7 +52,7 @@ export default function Home(ctx: PageProps<Data>) {
       <HeadElement
         description="Shop for Musa Merch"
         image={url.href + "og-image.png"}
-        title="Musa Merch"
+        title="ИП Агмалова Айгуль Фидаилевна"
         url={url}
       />
       <Header />
